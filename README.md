@@ -5,8 +5,11 @@ after getting to the panel you go to UI and selet button.
 
  You then make a script  and add it to main menu on the hierarchy key.
  after you go the visual basic and 
+ 
  <img width="456" alt="image" src="https://github.com/user-attachments/assets/c28fc3dc-cba5-49d2-9fe2-6d980173497e">
+ 
  as seen in the picture you delete the code.
+ 
 
 
 
