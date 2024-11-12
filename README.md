@@ -33,6 +33,8 @@ after getting to the panel you go to UI and selet button.
 
  <img width="327" alt="image" src="https://github.com/user-attachments/assets/119a4a85-3f07-4358-921d-f3ac0b244015">
 
+ you then click play game funation
+
  
 
  
