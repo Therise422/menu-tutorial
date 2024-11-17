@@ -1,3 +1,9 @@
+what is needed for this Tutorila.
+1 unity hub.
+2 unity 2022
+3 visual studio or visual basic.
+
+
 In  this Tutorial, ill be showing you how to make a main menu for a game in the game engine unity.
 the fist step  will make a background for the game menu.
 
