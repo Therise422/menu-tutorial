@@ -42,6 +42,12 @@ after getting to the panel you go to UI and selet button.
 
  make sure you follow the code on the image.
 
+ with the scripit that you made in the unit game engine make sure you go on the main manu  and then add the last code so that you are able to exit the game in game  engine unity and when the game is built
+
+  <img width="311" alt="image" src="https://github.com/user-attachments/assets/c727805e-d7f1-4690-b479-2165724199e6">
+  
+
+
 
  
 
