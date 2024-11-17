@@ -35,6 +35,14 @@ after getting to the panel you go to UI and selet button.
 
  you then click play game funation
 
+ you will then need to make an option menu with will toggle bettwen main menu and options main.
+ adtter you will reapart  the code  to make the option button work when you click on it.
+
+ <img width="289" alt="image" src="https://github.com/user-attachments/assets/299077b9-01dc-40b0-a564-1cf7103b44cc">
+
+ make sure you follow the code on the image.
+
+
  
 
  
