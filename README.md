@@ -18,7 +18,7 @@ To make a button  you go to the hierarchy panel.
 after getting to the panel you go to UI and select button.
 
  You then make a script  and add it to main menu on the hierarchy key.
- after you go the visual basic.
+ after you go the visual studio
 
  make sure you have downloaded visula studio for unity.
  to open visula studio you need to click on the script file
@@ -29,7 +29,7 @@ after getting to the panel you go to UI and select button.
 
  you will then need create a new method named play game as public.
 
- you will tehn need to write scenemanger. which you write down Loadsceneasync()
+ you will then need to write scenemanger. which you write down Loadsceneasync()
 
  <img width="483" alt="image" src="https://github.com/user-attachments/assets/9f7f4602-fec6-416b-816c-2d613446da06">
 
