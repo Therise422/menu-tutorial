@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "main menu.sln"
+    "dotnet.defaultSolution": "menu-tutorial.sln"
 }
