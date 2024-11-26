@@ -35,11 +35,19 @@ as seen below
 
  you will then need to write scenemanger. which you write down Loadsceneasync()
 
+ if you dont have a scene you will need to make one.
+ the way to make a scene you go to file and new scene then you will name it level 1.
+
  <img width="483" alt="image" src="https://github.com/user-attachments/assets/9f7f4602-fec6-416b-816c-2d613446da06">
 
  i added a sceernshot  of the code
 
  you then need to click one the start button go to navigation and add a function.
+ you will need to click on the button that you made.
+ in the inspetor window scroll down until you the see on click menu as seen below 
+![image](https://github.com/user-attachments/assets/8b807da5-821b-4a08-bec2-49030a81d940)
+
+
 
  <img width="327" alt="image" src="https://github.com/user-attachments/assets/119a4a85-3f07-4358-921d-f3ac0b244015">
 
