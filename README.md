@@ -16,6 +16,10 @@ you can add a title of your choice but for my main menu i will use the name shoa
 
 To make a button  you go to the hierarchy panel.
 after getting to the panel you go to UI and select button.
+as seen below
+![image](https://github.com/user-attachments/assets/ff844cf2-79b7-4ca3-b52b-ac30a31f8aca)
+
+
 
  You then make a script  and add it to main menu on the hierarchy key.
  after you go the visual studio
