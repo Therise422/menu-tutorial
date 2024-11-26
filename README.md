@@ -5,7 +5,7 @@ what is needed for this Tutorila.
 
 
 In  this Tutorial, ill be showing you how to make a main menu for a game in the game engine unity.
-the fist step  will make a background for the game menu.
+the first step  will make a background for the game menu.
 
 
 <img width="358" alt="image" src="https://github.com/user-attachments/assets/379b22be-18e1-46da-8276-471ffe055ed3">
