@@ -37,6 +37,8 @@ as seen below
 
  if you dont have a scene you will need to make one.
  the way to make a scene you go to file and new scene then you will name it level 1.
+ ![image](https://github.com/user-attachments/assets/08b3897e-04e5-43f4-bef6-6fc4066b4e90)
+
 
  <img width="483" alt="image" src="https://github.com/user-attachments/assets/9f7f4602-fec6-416b-816c-2d613446da06">
 
