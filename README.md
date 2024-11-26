@@ -14,8 +14,8 @@ the first step  will make a background for the game menu.
 you can add a title of your choice but for my main menu i will use the name shoadow hunter.
 
 
-To make a button  you go to the hierarhy panel.
-after getting to the panel you go to UI and selet button.
+To make a button  you go to the hierarchy panel.
+after getting to the panel you go to UI and select button.
 
  You then make a script  and add it to main menu on the hierarchy key.
  after you go the visual basic.
